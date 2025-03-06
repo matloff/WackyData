@@ -1,0 +1,9 @@
+Package: WackyData
+Version: 1.0.0
+Title: Data for the book, "Powered by Linear Algebra"
+Authors@R: c(person("Norm", "Matloff", email = "nsmatloff@ucdavis.edu",
+   role = c("aut", "cre"), comment = c(ORCID = "0000-0001-9179-6785")))
+Maintainer: Norm Matloff <nsmatloff@ucdavis.edu>
+License: GPL (>= 2) 
+URL: https://github.com/matloff/WackyData
+BugReports: https://github.com/matloff/WackyData/issues
